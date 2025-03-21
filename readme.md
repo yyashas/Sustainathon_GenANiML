@@ -14,7 +14,7 @@ Install the required system packages using Homebrew:
 brew install python poppler tesseract
 ```
 
-### 2. Ensure Python and ollama are installed.
+### 2. Ensure Python and ollama are installed
    
    Ensure Python version is >= 3.12.6.
    
