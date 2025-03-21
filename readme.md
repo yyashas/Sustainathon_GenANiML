@@ -1,4 +1,4 @@
-# 🧠 Local AI Document + Weblink Chatbot
+# 🧠 GenAnIML
 
 This project sets up a local AI-powered chatbot using `ollama`, with document and weblink ingestion capabilities. It features a Streamlit-based frontend for easy interaction.
 
