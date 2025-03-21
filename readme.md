@@ -55,7 +55,6 @@ python vectore_store.py
 ```
 
 3. Add FAQ / Weblink Data
-4.
 
 ```bash
 python faq_parser.py
