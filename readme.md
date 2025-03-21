@@ -15,7 +15,9 @@ brew install python poppler tesseract
 ```
 
 2. Ensure Python Version
+   
    Ensure Python version is >= 3.12.6.
+   
    Ensure [ollama](https://ollama.com/download/windows) is installed
 You can check your version with:
 
