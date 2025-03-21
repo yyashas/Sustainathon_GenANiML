@@ -16,16 +16,17 @@ brew install python poppler tesseract
 
 2. Ensure Python Version
    Ensure Python version is >= 3.12.6.
-
+   Ensure (ollama)[https://ollama.com/download/windows] is installed
 You can check your version with:
 
-````bash
+```bash
 python3 --version
+```
 3. Create and Activate Virtual Environment
 ``` bash
 python3 -m venv <path/to/venv>
 source <path/to/venv>/bin/activate
-````
+```
 
 4. Install Python Packages
 
