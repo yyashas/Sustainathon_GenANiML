@@ -14,7 +14,7 @@ Install the required system packages using Homebrew:
 brew install python poppler tesseract
 ```
 
-2. Ensure Python Version
+### 2. Ensure Python Version
    
    Ensure Python version is >= 3.12.6.
    
@@ -24,19 +24,19 @@ You can check your version with:
 ```bash
 python3 --version
 ```
-3. Create and Activate Virtual Environment
+### 3. Create and Activate Virtual Environment
 ``` bash
 python3 -m venv <path/to/venv>
 source <path/to/venv>/bin/activate
 ```
 
-4. Install Python Packages
+### 4. Install Python Packages
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-5. Pull the AI Model
+### 5. Pull the AI Model
    Make sure ollama is installed and then run:
 
 ```bash
